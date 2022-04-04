@@ -2,7 +2,7 @@ import time
 import Items
 import World
 #a = Items.Player()
-
+b = Items.Player()
 playerPos = World.startingLocation
 
 # b = Items.Player()
