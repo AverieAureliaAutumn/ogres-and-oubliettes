@@ -15,6 +15,8 @@ startingLocation = Start
 Start.connect(Town)
 Start.connect(Forest)
 Town.connect(Inn)
-Forest.connect(Inn)
+Forest.connect(ForestInn)
 Elune.connect(Forest)
+
+
 
